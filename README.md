@@ -5,7 +5,7 @@ A repository to explain how stuff work in computer science.
 
 - Fork the repository ([what is fork??](https://help.github.com/en/articles/working-with-forks)) 
 - Add your topic.md file to your forked repository in appropriate folder
-- Add your topic is the readme.md of the folder
+- Add your topic in the readme.md of the folder
 - Don't forget to add your Github Handle in [contributor's list](list_of_contributors.md)
 - Create a Pull Request ([make sure you are not behind this repository](https://stackoverflow.com/questions/41283955/github-keeps-saying-this-branch-is-x-commits-ahead-y-commits-behind/41289258))
 

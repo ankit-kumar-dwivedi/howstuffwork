@@ -61,3 +61,12 @@ Consider temp as a user defined data-structure consisting of elements: value and
           return"Element not found"
       temp=temp.next
  </pre>
+ 
+ <h2>Further Reading</h2>
+ <ul type="disc">
+  <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Geeks for Geeks</a>
+  <li><a href="https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm">Tutorials Point</a>
+  <li><a href="https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/tutorial/">Hacker Earth</a>
+  <li><a href="https://en.wikipedia.org/wiki/Linked_list">Wikipedia</a>
+  <li><a href="https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists">HackerRank</a>
+ </ul>

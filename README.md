@@ -1,7 +1,11 @@
 # howstuffwork
-A repository to explain how basic stuff work?
+A repository to explain how stuff work in computer science.
 
 Contribution guidelines
+- Fork the repository ([what is fork??](https://help.github.com/en/articles/working-with-forks)) 
+- Add your topic.md file to your forked repository
+- Create a Pull Request ([make sure you are not behind this repository](https://stackoverflow.com/questions/41283955/github-keeps-saying-this-branch-is-x-commits-ahead-y-commits-behind/41289258))
+
 
 When adding about say "A" following things should be present:
 
@@ -20,10 +24,15 @@ How it is implemented.
 ## Further Reading
 Reference of your content and links for further deep understanding
 
-For Example see -> 
+For Example see -> [this](https://github.com/ankit-kumar-dwivedi/howstuffwork/blob/master/How%20stuff%20work%20-%20data%20structure/Trie.md)
+
+# Need help?
+- [Github tutorial](https://try.github.io/)
+- [Github markdown guide](https://guides.github.com/features/mastering-markdown/)
+- [Git tutorial](https://guides.github.com/introduction/git-handbook/)
 
 # Happy Contributing :) 
 
 1. Make sure you are not adding something already present. However typo fix and improvements are accepted
-2. Mention your name and github handle in list_of_contributors.md
+2. Mention your name and github handle in [Contributors List](list_of_contributors.md)
 3. Don't forget to star the repository :p
